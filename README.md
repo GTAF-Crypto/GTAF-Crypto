@@ -44,6 +44,14 @@ GTAF brings together ideas and innovation across:
 
 This GitHub profile serves as an official source for GTAF-related repositories, documentation, digital assets, and project information.
 
+### ⚙️ GTAF-BNB — Official Token Repository
+
+For official GTAF Token technical information, documentation, contract details, and BNB Smart Chain resources, visit the official GTAF-BNB repository:
+
+### 🚀 [Open GTAF-BNB — Official Token Repository](https://github.com/GTAF-Crypto/GTAF-BNB)
+
+---
+
 ### 🌱 Green Tech Agro Farms — GTAF
 
 ## GTAF Unites Agriculture and the World of Crypto
